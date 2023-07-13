@@ -1,0 +1,3 @@
+C:\Users\Ayushree\source\repos\Sample\Sample\obj\Debug\Sample.csproj.AssemblyReference.cache
+C:\Users\Ayushree\source\repos\Sample\Sample\obj\Debug\Sample.dll
+C:\Users\Ayushree\source\repos\Sample\Sample\obj\Debug\Sample.pdb

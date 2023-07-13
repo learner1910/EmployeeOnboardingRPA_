@@ -1,0 +1,9 @@
+﻿body {
+    background-image: linear-gradient(to right, rgb(0,128,128), rgb(25,25,112));
+}
+.third.line {
+    border-bottom: 10px;
+    color:white;
+    width: 50%;
+    margin-left: 67px;
+}
